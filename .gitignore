@@ -1,0 +1,6 @@
+node_modules
+dist
+dev-dist
+.aistudio
+.env
+.DS_Store

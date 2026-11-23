@@ -1,0 +1,8 @@
+{
+  "name": "MyMoney - Personal Finance Management",
+  "description": "Complete fintech personal finance application with net worth tracking, multi-account ledger, budgets, savings goals, recurring bills, debt management, and financial analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
